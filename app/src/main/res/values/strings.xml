@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Log</string>
+    <string name="login">登陆</string>
+    <string name="forgetPassword">忘记密码？</string>
+    <string name="register">新用户注册</string>
+    <string name="agree">登陆即代表阅读并同意</string>
+    <string name="agreement">服务条款</string>
+    <string name="QQphoneHInt">QQ号/手机号/邮箱</string>
+    <string name="password">密码</string>
+</resources>
